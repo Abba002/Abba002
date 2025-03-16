@@ -1,6 +1,6 @@
 # Hi there, I'm Abba! 👋
 
-I'm a final-year Electrical and Computer Engineering student at Howard University, passionate about VLSI design, AI applications, and embedded systems. My interests lie in low-power VLSI design for sustainability and automation.
+I'm a final-year Computer Engineering student at Howard University, passionate about VLSI design, AI applications, and embedded systems. My interests lie in low-power VLSI design for sustainability and automation.
 
 ## 🔧 Technologies & Tools
 
