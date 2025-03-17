@@ -12,7 +12,7 @@ I'm a final-year Computer Engineering student at Howard University, passionate a
 
 ## 🚀 Experience & Projects
 
-- **FPGA Projects:** Designed and implemented a **binary counter** and a **counter with reset** using Verilog on the Nexys A7 FPGA board.
+- **FPGA Projects:** Designed and implemented a **stopwatch** , a **binary counter** and a **counter with reset** using Verilog on the Nexys A7 FPGA board.
 - **Johnson & Johnson (Solution Engineering Intern):** Worked on an AI-powered tool to automate release notes for the iConnect project, developed a new project checklist for the team, and prepared monthly metrics.
 - **Research & Tutoring:** Assisted students as a tutor in the College of Engineering and Architecture, reinforcing my knowledge while helping others succeed.
 - **Senior Design Project:** Developing a drone with an obstacle avoidance system using the Lynxmotion HQuad500 Drone Base Combo Kit and integrating real-time alerts.
